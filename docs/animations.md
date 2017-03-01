@@ -25,7 +25,8 @@ Creating your own animation is very simple.
 7. <a>Import the Theme</a>
 
 <b>Example</b>
-`@keyframes name {
+`
+@keyframes name {
     0%   {background-color:red; left:0px; top:0px;}
     25%  {background-color:yellow; left:200px; top:0px;}
     50%  {background-color:blue; left:200px; top:200px;}
@@ -34,4 +35,5 @@ Creating your own animation is very simple.
     
     title: Example;
     description: My own special animation!;
-}`
+}
+`
