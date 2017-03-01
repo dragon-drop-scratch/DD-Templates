@@ -6,10 +6,7 @@
 ## Premade
 animated-gradient
   Adds the ability to have a mulicolor gradient background.
-  
- 
- 
- 
+
  ## Making Your Own
  
  Blah
