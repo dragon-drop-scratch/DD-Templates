@@ -1,8 +1,9 @@
-<p>
+# Supported Text Tags
+- <p>
   Color
   Font
 
-<code>
+- <code>
   Background Color
   Color
   Font
