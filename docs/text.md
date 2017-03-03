@@ -3,7 +3,9 @@
   Color
   Font
 
-- ```<code>```
+- ```html
+<code>
+```
   Background Color
   Color
   Font
