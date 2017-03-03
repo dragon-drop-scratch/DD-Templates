@@ -3,7 +3,7 @@
   Color
   Font
 
-- <code><code></code>
+- ```<code>```
   Background Color
   Color
   Font
